@@ -93,5 +93,3 @@ console.log("useEffect Called)
   everything we need is already loaded into the site
 
 - Server Side Routing : when there's a network call, whenever a new page loads, a network call is made and data is fetched from there
-
-# Custon Hooks

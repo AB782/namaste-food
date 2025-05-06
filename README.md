@@ -1,5 +1,5 @@
-Name - Aayush Bansal
-Roll Number - 2110990027
+- Name - Aayush Bansal
+- Roll Number - 2110990027
 
 #Namaste-Food
 
